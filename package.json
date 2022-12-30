@@ -18,7 +18,7 @@
     "eslint": "^6.1.0",
     "eslint-plugin-es-beautifier": "^1.0.1",
     "prettier": "^1.18.2",
-    "release-it": "^12.3.5"
+    "release-it": "^15.6.0"
   },
   "scripts": {
     "docs:all": "npm run docs:steps && npm run docs:utils",
